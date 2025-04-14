@@ -4,8 +4,8 @@ EXTM3U
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/4942/1424942-a-6e211260a748.jpg" group-title="Cricket",Star Sports 1 HD
-https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1-HD@DJ-TM.mpd?data=8wvLCq70qDSrLHJNrvTS9kzxDvE19At3j8oNKo_Kcik3dDcrSU408fdODYqMdC2MTE0ry0kts0iJdC6M9MzMcYvKzcmNyM7JScuKcExPy3FzLkw3yDUzcHc2NIgAAA|Cookie=hdntl=exp=1743600898~acl=*sshd1livetv*~id=4fed12487fa4fa19e5d4d1b3bc470b48~data=hdntl~hmac=57b63f945a6eeaab42e90c77f7c033f443d36c596b43aee3a0dd55d18b9c99fa&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=_ncY-7P7S6eMB8wPV4dE5g:Yk4ksYQ7RZ-rCpSWCUFvDQ
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrAYYNyHRNJBJP7N2k8eRZR1c0bzpjh2_OnpRM5ZD1har6_R6vfOtYlyNQ&s=10" group-title="Cricket",Tamil Hotstar
+https://game.denver1769.fun/Js25/play.m3u8?id=TAM&m=M1|User-Agent=VLC/3.0.18
 
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://i.postimg.cc/Nfz7CWJp/image.jpg" group-title="Cricket",Star Sports Select 1 HD
 #EXTVLCOPT:http-user-agent=Denver1769
@@ -30,13 +30,10 @@ http://port.denver1769.fun/oplx5.php?id=167573
 
 #EXTINF:-1 group-title="Cricket" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/4951/1424951-a-eda1818aa83d.jpg",Star Sports 1 Tamil HD
 #EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.fun/oplx5.php?id=167574
-
+http://exm3u.extraott.com:80/live/2249871453/1991220000/400201942.m3u8
 
 #EXTINF:-1 tvg-id="ts1067" tvg-chno="56" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJ61K-8N3c5plhXMh1-PLm4yyGWn_unNubFquS8gHhl4abH9vbxgoe7nV&s=10" group-title="Anas IPL",Star Sports 1 Tamil HD
-https://anas-tamil.netlify.app/stream/stream.m3u8
-
-
+https://tamilultratv.co.in/master.m3u8?c=SPTAMIL&server=1|Referer=https://tamilultratv.co.in/
 
 #EXTINF:-1 tvg-id="ts1067" tvg-chno="56" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Anas Kids",Sony Yay tamil
 https://tamilultratv.co.in/master.m3u8?c=SONY_YAY_TAMIL&server=1|Referer=https://tamilultratv.co.in/
